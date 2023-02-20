@@ -1,0 +1,82 @@
+State or Union Territory,Type of System,No. of Colleges - Govt,Admission Capacity - Govt,Permitted Seats - Govt,No. of Colleges - Non-Govt,Admission Capacity - Non-Govt,Permitted Seats - Non-Govt
+ Andhra Pradesh ,Ayurveda,1,100,100,2,176,118
+ Assam  ,Ayurveda,1,93,93,0,0,0
+ Bihar ,Ayurveda,2,211,211,6,280,153
+ Chhattisgarh  ,Ayurveda,2,216,216,4,280,250
+ Delhi  ,Ayurveda,3,359,359,0,0,0
+ Goa  ,Ayurveda,0,0,0,1,72,72
+ Gujarat,Ayurveda,7,624,624,27,1871,1296
+ Haryana  ,Ayurveda,2,168,168,9,600,404
+ Himachal Pradesh  ,Ayurveda,1,131,131,2,120,90
+ Jammu & Kashmir  ,Ayurveda,1,63,63,1,105,105
+ Jharkhand,Ayurveda,0,0,0,1,84,0
+ Karnataka  ,Ayurveda,4,509,509,74,6130,5322
+ Kerala  ,Ayurveda,3,388,388,15,1104,1024
+ Madhya Pradesh  ,Ayurveda,7,586,586,17,1318,722
+ Maharashtra  ,Ayurveda,5,812,812,78,6564,6327
+ Meghalaya ,Ayurveda,1,63,63,0,0,0
+ Odisha  ,Ayurveda,3,254,254,3,120,30
+ Punjab  ,Ayurveda,1,60,60,16,999,599
+ Rajasthan  ,Ayurveda,3,588,588,10,628,0
+Tamil Nadu,Ayurveda,1,75,75,6,370,234
+Telangana,Ayurveda,2,174,174,3,150,0
+Uttar Pradesh  ,Ayurveda,9,787,787,60,5233,2682
+Uttarakhand,Ayurveda,3,308,308,13,984,799
+West Bengal,Ayurveda,2,99,99,2,100,80
+Chandigarh ,Ayurveda,0,0,0,1,100,100
+Puducherry,Ayurveda,1,63,63,0,0,0
+ Andhra Pradesh ,Unani,0,0,0,1,50,50
+ Bihar ,Unani,1,156,156,4,200,140
+ Chhattisgarh  ,Unani,0,0,0,1,40,0
+ Delhi  ,Unani,1,88,88,1,59,59
+ Jammu & Kashmir  ,Unani,2,78,78,2,100,100
+ Karnataka  ,Unani,2,156,156,4,247,187
+ Kerala  ,Unani,0,0,0,1,60,60
+ Madhya Pradesh  ,Unani,1,75,75,3,160,160
+ Maharashtra  ,Unani,0,0,0,7,446,437
+ Punjab  ,Unani,0,0,0,1,50,0
+ Rajasthan  ,Unani,1,63,63,2,90,0
+Tamil Nadu,Unani,1,75,75,0,0,0
+Telangana,Unani,2,157,153,1,100,0
+Uttar Pradesh  ,Unani,3,256,256,13,800,655
+Uttarakhand,Unani,0,0,0,1,60,0
+West Bengal,Unani,0,0,0,1,40,40
+ Kerala  ,Siddha,0,0,0,1,50,50
+Tamil Nadu,Siddha,3,376,373,9,490,490
+ Andhra Pradesh ,Naturopathy,0,0,0,2,200,200
+ Chhattisgarh  ,Naturopathy,0,0,0,1,50,50
+Delhi,Naturopathy,1,30,30,0,0,0
+ Gujarat,Naturopathy,0,0,0,2,60,60
+Haryana,Naturopathy,0,0,0,1,40,40
+ Karnataka  ,Naturopathy,1,60,60,8,690,690
+ Madhya Pradesh  ,Naturopathy,0,0,0,2,139,130
+ Rajasthan  ,Naturopathy,0,0,0,10,690,690
+Tamil Nadu,Naturopathy,1,75,75,14,1250,1250
+Telangana,Naturopathy,0,0,0,1,60,0
+Uttar Pradesh  ,Naturopathy,2,130,130,2,140,140
+Uttarakhand,Naturopathy,0,0,0,1,60,60
+ Andhra Pradesh ,Homoeopathy,3,205,205,4,400,360
+Arunachal Pradesh,Homoeopathy,0,0,0,1,50,50
+ Assam  ,Homoeopathy,3,189,189,0,0,0
+ Bihar ,Homoeopathy,1,88,88,14,792,442
+ Chhattisgarh  ,Homoeopathy,0,0,0,3,200,0
+ Delhi  ,Homoeopathy,2,197,197,0,0,0
+ Goa  ,Homoeopathy,0,0,0,1,50,50
+ Gujarat,Homoeopathy,1,125,125,34,3493,2449
+ Haryana  ,Homoeopathy,0,0,0,1,50,50
+ Himachal Pradesh  ,Homoeopathy,0,0,0,1,75,75
+ Jharkhand,Homoeopathy,1,63,63,4,250,0
+ Karnataka  ,Homoeopathy,1,160,160,17,1451,1341
+ Kerala  ,Homoeopathy,3,199,199,3,189,189
+ Madhya Pradesh  ,Homoeopathy,1,194,194,24,2163,926
+ Maharashtra  ,Homoeopathy,0,0,0,58,5044,3939
+ Meghalaya ,Homoeopathy,1,63,63,0,0,0
+ Odisha  ,Homoeopathy,4,175,160,2,70,0
+ Punjab  ,Homoeopathy,0,0,0,4,288,188
+ Rajasthan  ,Homoeopathy,0,0,0,10,877,640
+Tamil Nadu,Homoeopathy,1,63,63,12,986,886
+Telangana,Homoeopathy,1,163,163,4,350,350
+Uttar Pradesh  ,Homoeopathy,9,1027,1027,4,374,242
+Uttarakhand,Homoeopathy,0,0,0,2,110,50
+West Bengal,Homoeopathy,5,459,459,7,395,380
+ Chandigarh ,Homoeopathy,0,0,0,1,50,50
